@@ -19,11 +19,13 @@
 
 3. 以下のコマンドを叩く
 
+```
     # livedoorコーパスを元にgensimで辞書を作る
     $ python create_dic.py
     # => 辞書データlivedoordic.txtと、記事を形態素解析し名詞を取り出したwords.pickleを生成する
 
     $ python estimation_chainer.py
+```
 
 
 ## 参考
