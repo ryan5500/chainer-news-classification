@@ -1,0 +1,7 @@
+__pycache__
+result
+tests
+livedoordic.txt
+*.pyc
+ldcc-20140209.tar.gz
+news_docs
